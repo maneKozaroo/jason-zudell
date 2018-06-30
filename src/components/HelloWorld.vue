@@ -37,6 +37,14 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  methods: {
+    foo: (magicNumber) => {
+      if(magicNumber % 2 !== 0) {
+        return 'bar'
+      }
+      return 'foo'
+    }
   }
 }
 </script>
