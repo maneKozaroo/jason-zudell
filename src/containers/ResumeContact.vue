@@ -1,6 +1,6 @@
 <template>
-  <v-container class="red" fluid>
-    <v-flex xs12>
+  <v-container fluid>
+    <v-flex id="contact" class="display-3 grey--text text--lighten-2" xs12>
       Contact
     </v-flex>
     <v-layout>
