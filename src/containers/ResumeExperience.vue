@@ -68,7 +68,7 @@
                     <v-list-tile>
                       <v-list-tile-content>
                         <v-list-tile-title>Various clients</v-list-tile-title>
-                        <v-list-tile-sub-title>Freelance web developer</v-list-tile-sub-title>
+                        <v-list-tile-sub-title class="text--primary">Freelance web developer</v-list-tile-sub-title>
                         <v-list-tile-sub-title>June 2008 - February 2015</v-list-tile-sub-title>
                       </v-list-tile-content>
                     </v-list-tile>
