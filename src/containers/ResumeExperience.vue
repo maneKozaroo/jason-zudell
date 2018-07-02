@@ -10,15 +10,13 @@
             <div class="timeline">
               <div class="timeline-event">
                 <v-card class="timeline-content">
-                  <v-list two-line>
+                  <v-list three-line>
                       <v-list-tile>
                         <v-list-tile-content>
                           <v-list-tile-title>Mobilus</v-list-tile-title>
-                          <v-list-tile-sub-title>Front-end (full-stack) web developer</v-list-tile-sub-title>
+                          <v-list-tile-sub-title class="text--primary">Front-end (full-stack) web developer</v-list-tile-sub-title>
+                          <v-list-tile-sub-title>June 2017 - Present</v-list-tile-sub-title>
                         </v-list-tile-content>
-                        <v-list-tile-action>
-                          <v-list-tile-action-text>June 2017 - Present</v-list-tile-action-text>
-                        </v-list-tile-action>
                       </v-list-tile>
                   </v-list>
                   <v-expansion-panel>
@@ -39,15 +37,13 @@
               </div>
               <div class="timeline-event">
                 <v-card class="timeline-content">
-                  <v-list two-line>
+                  <v-list three-line>
                     <v-list-tile>
                       <v-list-tile-content>
                         <v-list-tile-title>Fusion Systems Japan</v-list-tile-title>
-                        <v-list-tile-sub-title>Front-end (full-stack) web developer</v-list-tile-sub-title>
+                        <v-list-tile-sub-title class="text--primary">Front-end (full-stack) web developer</v-list-tile-sub-title>
+                        <v-list-tile-sub-title>March 2015 - May 2017</v-list-tile-sub-title>
                       </v-list-tile-content>
-                      <v-list-tile-action>
-                        <v-list-tile-action-text>March 2015 - May 2017</v-list-tile-action-text>
-                      </v-list-tile-action>
                     </v-list-tile>
                   </v-list>
                   <v-expansion-panel>
@@ -68,15 +64,13 @@
               </div>
               <div class="timeline-event">
                 <v-card class="timeline-content">
-                  <v-list two-line>
+                  <v-list three-line>
                     <v-list-tile>
                       <v-list-tile-content>
                         <v-list-tile-title>Various clients</v-list-tile-title>
                         <v-list-tile-sub-title>Freelance web developer</v-list-tile-sub-title>
+                        <v-list-tile-sub-title>June 2008 - February 2015</v-list-tile-sub-title>
                       </v-list-tile-content>
-                      <v-list-tile-action>
-                        <v-list-tile-action-text>June 2008 - February 2015</v-list-tile-action-text>
-                      </v-list-tile-action>
                     </v-list-tile>
                   </v-list>
                   <v-expansion-panel>
