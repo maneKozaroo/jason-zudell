@@ -20,7 +20,7 @@
       <resume-contact></resume-contact>
     </v-content>
 
-    <v-bottom-nav app :value="$vuetify.breakpoint.smAndDown">
+    <v-bottom-nav app class="hidden-md-and-up" :value="$vuetify.breakpoint.smAndDown">
       <v-btn flat color="teal" value="recent" @click="$vuetify.goTo('#about')">
         <span>About</span>
         <v-icon>info</v-icon>
